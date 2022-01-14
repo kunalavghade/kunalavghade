@@ -7,7 +7,7 @@ I am Student of B. Tech Electronics and telecommunication.
 
 🧠 I'm currently learning...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunalavghade)](https://github.com/kunalavghade/github-readme-stats)
+![kunalavghade's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunalavghade&show_icons=true&theme=radical)
 
 
 ## 🛠 Skills
