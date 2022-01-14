@@ -8,7 +8,7 @@ I am Student of B. Tech Electronics and telecommunication.
 🧠 I'm currently learning...
 
 ![kunalavghade's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunalavghade&show_icons=true&theme=github_dark)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalavghade&layout=compact)](https://github.com/kunalavghade/github-readme-stats)
 
 ## 🛠 Skills
 Python, ML, C/C++, JAVA, ELECTRONICS
