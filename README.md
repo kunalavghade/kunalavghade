@@ -10,7 +10,7 @@ I am Student of B. Tech Electronics and telecommunication.
 ![kunalavghade's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunalavghade&show_icons=true&theme=github_dark)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalavghade&layout=compact&theme=github_dark)](https://github.com/kunalavghade/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalavghade&layout=compact&theme=github_dark&&hide=jupyter_notebook)](https://github.com/kunalavghade/github-readme-stats)
 
 ## 🛠 Skills
 Python, ML, C/C++, JAVA, ELECTRONICS
