@@ -6,7 +6,7 @@
 ### 👨🏻‍💻 About Me
 🎓 I'm an ENTC Undergraduate at VIIT.\
 🌱 I'm on track for enhancing my knowledge about Data Structures and Algorithms.\
-✉️ You can reach out to me via email at kunal77avghad@gmail.com.
+✉️ You can reach out to me via email at kunal77avghade@gmail.com.
 
 
 ### 🛠 Languages and Tools
