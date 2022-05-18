@@ -24,7 +24,7 @@
 
 ### ⚙️ GitHub Analytics
 <p align="center">
-<a href="https://github.com/Sneha0607">
+<a href="https://github.com/kunalavghade">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kunalavghade&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalavghade&layout=compact&theme=github_dark&&hide=jupyter%20notebook"/>
