@@ -7,16 +7,22 @@
 🌱 I'm on track for enhancing my knowledge about Data Structures and Algorithms.\
 ✉️ You can reach out to me via email at kunal77avghade@gmail.com.
 
+![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{kunalavghade}1212%2Fhit-counter)
 
-### 🛠 Languages and Tools
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+### 🛠 Languages 
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp;
+
+
+### 🛠 Tools and Frameworks
+![Django](https://img.shields.io/badge/-Git-05122A?style=flat&logo=django)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=vim)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sublime Text](https://img.shields.io/badge/-Sublime_Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)
 
@@ -32,12 +38,18 @@
 
 <p align="center">
 <a href="https://github.com/kunalavghade">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=kunalavghade&theme=github-dark-blue"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=kunalavghade&theme=github-dark-blue"/>
+  </a>
+</p>
+
+<p align="center">
+<a href="https://github.com/kunalavghade">
+  <img height="200em" src="https://activity-graph.herokuapp.com/graph?username=kunalavghade&theme=react-dark"/>
   </a>
 </p>
   <p align="center">
 <a href="https://github.com/kunalavghade">
-  <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=kunalavghade&theme=react-dark"/>
+  <img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunalavghade&theme=dracula"/>
 </a>
 </p>
 
