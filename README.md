@@ -39,17 +39,22 @@
 <p align="center">
 <a href="https://github.com/kunalavghade">
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=kunalavghade&theme=github-dark-blue"/>
-  <img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunalavghade&theme=dracula"/>
-
   </a>
 </p>
 
 
-  <p align="center">
+<p align="center">
 <a href="https://github.com/kunalavghade">
   <img height="160em" src="https://activity-graph.herokuapp.com/graph?username=kunalavghade&theme=react-dark"/>
   </a>
 </p>
+
+<p align="center">
+<a href="https://github.com/kunalavghade">
+  <img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunalavghade&theme=dracula"/>
+  </a>
+</p>
+
 
 ## 🔗 Links
 
