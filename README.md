@@ -51,7 +51,7 @@
 
 <p align="center">
 <a href="https://github.com/kunalavghade">
-  <img height="1700em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunalavghade&theme=dracula"/>
+  <img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunalavghade&theme=dracula"/>
   </a>
 </p>
 
