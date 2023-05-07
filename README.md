@@ -48,11 +48,7 @@
 </p>
 
 
-<p align="center">
-<a href="https://github.com/kunalavghade">
-  <img height="220em" src="https://activity-graph.herokuapp.com/graph?username=kunalavghade&theme=react-dark"/>
-  </a>
-</p>
+
 
 <p align="center">
 <a href="https://github.com/kunalavghade">
