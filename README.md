@@ -3,7 +3,8 @@
 
 
 ### 👨🏻‍💻 About Me
-🎓 I'm an ENTC Undergraduate at VIIT.\
+💻 I'm Jr. software Engineer
+🎓 I'm an ENTC Undergraduate at VIIT.
 🌱 I'm on track for enhancing my knowledge about Data Structures and Algorithms.\
 ✉️ You can reach out to me via email at kunalavghade77@gmail.com.
 
