@@ -3,9 +3,12 @@
 
 
 ### 👨🏻‍💻 About Me
-💻 I'm Jr. software Engineer.
+💻 I'm software Engineer.
+
 🎓 I'm an ENTC Undergraduate at VIIT.
-🌱 I'm on track for enhancing my knowledge about Data Structures and Algorithms.
+
+🌱 I'm on track for enhancing my knowledge about DSA and learning new Technologys.
+
 ✉️ You can reach out to me via email at kunalavghade77@gmail.com.
 
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{kunalavghade}1212%2Fhit-counter)
