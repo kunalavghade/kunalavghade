@@ -3,9 +3,9 @@
 
 
 ### 👨🏻‍💻 About Me
-💻 I'm software Engineer.
+💻 I'm Fullstack software Engineer.
 
-🎓 I'm an ENTC Undergraduate at VIIT.
+🎓 I'm an ENTC Undergraduate from VIIT.
 
 🌱 I'm on track for enhancing my knowledge about DSA and learning new Technologys.
 
@@ -14,7 +14,7 @@
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{kunalavghade}1212%2Fhit-counter)
 
 ### 🛠 Languages 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -24,9 +24,12 @@
 ![JavaScript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
 
 ### ❄ Frameworks
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
+![ReactJs](https://img.shields.io/badge/-React%20JS-05122A?style=flat&logo=react)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)&nbsp;
 ![Springboot](https://img.shields.io/badge/-Springboot-05122A?style=flat&logo=Spring)&nbsp;
+![NestJs](https://img.shields.io/badge/-NestJs-05122A?style=flat&logo=nestjs)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
+
 
 ### 🛠 Tools and Frameworks
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
