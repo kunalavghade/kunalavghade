@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 About Me
 💻 I'm Fullstack software Engineer.
 
-🎓 I'm an ENTC Undergraduate from VIIT.
+🎓 I'm an B.Tech Undergraduate from VIIT.
 
 🌱 I'm on track for enhancing my knowledge about DSA and learning new Technologys.
 
