@@ -1,9 +1,4 @@
 # Hey there, I'm Kunal Avghade 👋
-
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkunalavghade%2Fhit-counter" />
-</p>
-
 ---
 
 ## 👨🏻‍💻 About Me
@@ -58,19 +53,6 @@
   <a href="https://github.com/kunalavghade">
     <img width="95%"
          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunalavghade&theme=dracula" />
-  </a>
-</p>
-
-<!-- TWO CARDS IN ONE ROW -->
-<p align="center">
-  <a href="https://github.com/kunalavghade">
-    <img height="160em"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalavghade&layout=compact&theme=github_dark&hide=jupyter%20notebook" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/kunalavghade">
-    <img height="160em"
-         src="https://github-readme-streak-stats.herokuapp.com?user=kunalavghade&theme=github-dark-blue" />
   </a>
 </p>
 
