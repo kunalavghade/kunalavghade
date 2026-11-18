@@ -1,79 +1,23 @@
-# Hey there, I'm Kunal Avghade 👋
----
+<h1 align="center">Hi, I'm Kunal 👋</h1>
+<p align="center"><i>Backend engineer · Distributed systems · Making things not break</i></p>
 
-## 👨🏻‍💻 About Me
-
-💻 **Full Stack Software Engineer** with strong backend focus
-
-🎓 **B.Tech Undergraduate** from **VIIT**
-
-🌱 Actively strengthening **DSA, System Design, and DevOps skills**
-
-🧠 Interested in **Distributed Systems, Temporal Workflows, Microservices**
-
-✉️ Reach me at **[kunalavghade77@gmail.com](mailto:kunalavghade77@gmail.com)**
-
----
-
-## 🛠️ Languages
-
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat\&logo=Java) 
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat\&logo=C%2B%2B) 
-![C](https://img.shields.io/badge/-C-05122A?style=flat\&logo=C) 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat\&logo=python) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat\&logo=javascript) 
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat\&logo=postgresql) 
-
----
-
-## ❄ Frameworks & Libraries
-
-![React](https://img.shields.io/badge/-React-05122A?style=flat\&logo=react) 
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat\&logo=spring) 
-![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat\&logo=nestjs) 
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat\&logo=django) 
-
----
-
-## 🛠 Tools & Platforms
-
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat\&logo=git) 
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat\&logo=github) 
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat\&logo=docker) 
-![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat\&logo=redis) 
-![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat\&logo=apachekafka) 
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat\&logo=visual-studio-code)
-
----
-
-## ⚙️ GitHub Working Stats
-
-<!-- BIG CARD (Top) : Profile Summary -->
 <p align="center">
-  <a href="https://github.com/kunalavghade">
-    <img width="95%"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunalavghade&theme=dracula" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=480&lines=Temporal+%7C+Kafka+%7C+Redis;TypeScript+%7C+Python+%7C+Go+%7C+Java;LeetCode+Guardian+%E2%9A%94%EF%B8%8F" />
 </p>
 
-<!-- BIG CARD (Bottom) : Activity Graph -->
 <p align="center">
-  <a href="https://github.com/kunalavghade">
-    <img width="95%"
-         src="https://github-readme-activity-graph.vercel.app/graph?username=kunalavghade&theme=github-compact" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=ts,py,go,java,cpp,nestjs,spring,fastapi,react,kafka,redis,postgres,docker,kubernetes,aws,gcp&perline=8" />
 </p>
 
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kunalavghade&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://leetcard.jacoblin.cool/akunal?theme=dark&font=Fira%20Code&border=0" />
+</p>
 
----
-
-## 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kunalavghade/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge\&logo=HackerRank\&logoColor=white)](https://www.hackerrank.com/kunalavghade77)
-[![LeetCode](https://img.shields.io/badge/LeetCode-887755?style=for-the-badge\&logo=LeetCode)](https://leetcode.com/kunalavghade/)
-
----
-
-⭐ *Thanks for visiting my profile!*
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/kunalavghade/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/akunal/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
+  <a href="https://codeforces.com/profile/Kunalavghade"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /></a>
+  <a href="https://kunalavghade.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white" /></a>
+  <a href="mailto:kunalavghade77@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
