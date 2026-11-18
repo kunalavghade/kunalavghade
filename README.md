@@ -1,25 +1,22 @@
-<p align="center">
-  <img src="assets/terminal-about.svg" alt="Terminal: Kunal Avghade — codes for fun, ships for real. Builds backends that refuse to break, wires up AI agents and LLM tooling, designs clean UIs, open source tinkerer and LeetCode Guardian." />
-</p>
+<pre><picture><source media="(max-width: 1000px)" srcset="assets/terminal/terminal-top-compact.svg" /><img align="top" src="assets/terminal/terminal-top.svg" alt="Terminal window: KUNAL, Kunal Avghade. Backend Engineer, Distributed Systems, AI Infra. Go, TypeScript, Python, Java. Temporal, Kafka, Redis, Kubernetes. Building TrainMesh, KubeLab, DockerLab. 2b || !2b." /></picture>
+<a href="https://kunalavghade.github.io"><picture><source media="(max-width: 1000px)" srcset="assets/terminal/terminal-link-portfolio-compact.svg" /><img align="top" src="assets/terminal/terminal-link-portfolio.svg" alt="Portfolio" /></picture></a><a href="https://www.linkedin.com/in/kunalavghade/"><picture><source media="(max-width: 1000px)" srcset="assets/terminal/terminal-link-linkedin-compact.svg" /><img align="top" src="assets/terminal/terminal-link-linkedin.svg" alt="Linkedin" /></picture></a><a href="https://leetcode.com/u/akunal/"><picture><source media="(max-width: 1000px)" srcset="assets/terminal/terminal-link-leetcode-compact.svg" /><img align="top" src="assets/terminal/terminal-link-leetcode.svg" alt="Leetcode" /></picture></a><a href="https://github.com/kunalavghade/TrainMesh"><picture><source media="(max-width: 1000px)" srcset="assets/terminal/terminal-link-trainmesh-compact.svg" /><img align="top" src="assets/terminal/terminal-link-trainmesh.svg" alt="Trainmesh" /></picture></a><a href="https://kunalavghade.github.io/kubelab/"><picture><source media="(max-width: 1000px)" srcset="assets/terminal/terminal-link-kubelab-compact.svg" /><img align="top" src="assets/terminal/terminal-link-kubelab.svg" alt="Kubelab" /></picture></a><a href="https://kunalavghade.github.io/dockerlab/"><picture><source media="(max-width: 1000px)" srcset="assets/terminal/terminal-link-dockerlab-compact.svg" /><img align="top" src="assets/terminal/terminal-link-dockerlab.svg" alt="Dockerlab" /></picture></a><a href="https://github.com/kunalavghade/PixelBeats"><picture><source media="(max-width: 1000px)" srcset="assets/terminal/terminal-link-pixelbeats-compact.svg" /><img align="top" src="assets/terminal/terminal-link-pixelbeats.svg" alt="Pixelbeats" /></picture></a>
+<picture><source media="(max-width: 1000px)" srcset="assets/terminal/terminal-fetch-compact.svg" /><img align="top" src="assets/terminal/terminal-fetch.svg" alt="fastfetch: macOS, zsh, VS Code + Claude Code, Go / TS / Python / Java / C++, Temporal / Kafka / Redis / K8s, LeetCode Guardian 2164. Backend by day. Side projects by night." /></picture>
+<img align="top" src="assets/terminal/terminal-status.svg" alt="" /><img align="top" src="https://komarev.com/ghpvc/?username=kunalavghade&amp;color=313244&amp;style=flat-square&amp;label=views" alt="Profile views" /><img align="top" src="https://img.shields.io/github/followers/kunalavghade?style=flat-square&amp;color=313244&amp;labelColor=1e1e2e&amp;label=followers" alt="GitHub followers" /><img align="top" src="https://img.shields.io/github/stars/kunalavghade?style=flat-square&amp;color=313244&amp;labelColor=1e1e2e&amp;label=stars" alt="GitHub stars" /></pre>
+
+---
+
+| Languages | Streak |
+| :-- | :-- |
+| <img src="/top-langs.svg" alt="Top languages" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalavghade&theme=transparent&hide_border=true&short_numbers=true" alt="GitHub streak" /> |
+
+---
 
 <p align="center">
-  <img src="assets/terminal-fetch.svg" alt="fastfetch: TypeScript, Python, Go, Java. AI: LLM agents, RAG, MCP. Design: React, Tailwind, Figma. Infra: Docker, K8s, AWS, GCP." />
-</p>
-
-<p align="center">
-  <a href="https://kunalavghade.github.io"><img src="https://img.shields.io/badge/~/portfolio-0d1117?style=flat-square&logo=githubpages&logoColor=7ee787" /></a>
-  <a href="https://www.linkedin.com/in/kunalavghade/"><img src="https://img.shields.io/badge/~/linkedin-0d1117?style=flat-square&logo=linkedin&logoColor=79c0ff" /></a>
-  <a href="https://leetcode.com/u/akunal/"><img src="https://img.shields.io/badge/~/leetcode-0d1117?style=flat-square&logo=leetcode&logoColor=f2cc60" /></a>
-  <a href="https://codeforces.com/profile/Kunalavghade"><img src="https://img.shields.io/badge/~/codeforces-0d1117?style=flat-square&logo=codeforces&logoColor=d2a8ff" /></a>
-  <a href="mailto:kunalavghade77@gmail.com"><img src="https://img.shields.io/badge/~/mail-0d1117?style=flat-square&logo=gmail&logoColor=ff7b72" /></a>
-  <img src="https://komarev.com/ghpvc/?username=kunalavghade&color=0d1117&style=flat-square&label=views" />
+  <img src="https://raw.githubusercontent.com/kunalavghade/kunalavghade/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 </p>
 
 ---
 
 <p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kunalavghade&theme=github_dark" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalavghade&theme=github-dark-blue&hide_border=true&background=00000000" />
+  <img src="https://skillicons.dev/icons?i=go,ts,py,java,cpp,nestjs,spring,fastapi,kafka,redis,postgres,docker,kubernetes,aws,gcp,linux&perline=8" alt="Toolbox: Go, TypeScript, Python, Java, C++, NestJS, Spring, FastAPI, Kafka, Redis, Postgres, Docker, Kubernetes, AWS, GCP, Linux" />
 </p>
-
-<p align="center"><sub>☕ powered by coffee, curiosity and <code>git push --force-with-lease</code></sub></p>
