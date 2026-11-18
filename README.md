@@ -1,23 +1,25 @@
-<h1 align="center">Hi, I'm Kunal 👋</h1>
-<p align="center"><i>Backend engineer · Distributed systems · Making things not break</i></p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=480&lines=Temporal+%7C+Kafka+%7C+Redis;TypeScript+%7C+Python+%7C+Go+%7C+Java;LeetCode+Guardian+%E2%9A%94%EF%B8%8F" />
+  <img src="assets/terminal-about.svg" alt="Terminal: Kunal Avghade — codes for fun, ships for real. Builds backends that refuse to break, wires up AI agents and LLM tooling, designs clean UIs, open source tinkerer and LeetCode Guardian." />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,py,go,java,cpp,nestjs,spring,fastapi,react,kafka,redis,postgres,docker,kubernetes,aws,gcp&perline=8" />
+  <img src="assets/terminal-fetch.svg" alt="fastfetch: TypeScript, Python, Go, Java. AI: LLM agents, RAG, MCP. Design: React, Tailwind, Figma. Infra: Docker, K8s, AWS, GCP." />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kunalavghade&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://leetcard.jacoblin.cool/akunal?theme=dark&font=Fira%20Code&border=0" />
+  <a href="https://kunalavghade.github.io"><img src="https://img.shields.io/badge/~/portfolio-0d1117?style=flat-square&logo=githubpages&logoColor=7ee787" /></a>
+  <a href="https://www.linkedin.com/in/kunalavghade/"><img src="https://img.shields.io/badge/~/linkedin-0d1117?style=flat-square&logo=linkedin&logoColor=79c0ff" /></a>
+  <a href="https://leetcode.com/u/akunal/"><img src="https://img.shields.io/badge/~/leetcode-0d1117?style=flat-square&logo=leetcode&logoColor=f2cc60" /></a>
+  <a href="https://codeforces.com/profile/Kunalavghade"><img src="https://img.shields.io/badge/~/codeforces-0d1117?style=flat-square&logo=codeforces&logoColor=d2a8ff" /></a>
+  <a href="mailto:kunalavghade77@gmail.com"><img src="https://img.shields.io/badge/~/mail-0d1117?style=flat-square&logo=gmail&logoColor=ff7b72" /></a>
+  <img src="https://komarev.com/ghpvc/?username=kunalavghade&color=0d1117&style=flat-square&label=views" />
 </p>
 
+---
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/kunalavghade/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/akunal/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
-  <a href="https://codeforces.com/profile/Kunalavghade"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /></a>
-  <a href="https://kunalavghade.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white" /></a>
-  <a href="mailto:kunalavghade77@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalavghade&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalavghade&theme=github-dark-blue&hide_border=true&background=00000000" />
 </p>
+
+<p align="center"><sub>☕ powered by coffee, curiosity and <code>git push --force-with-lease</code></sub></p>
