@@ -18,7 +18,7 @@
 ---
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalavghade&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kunalavghade&theme=github_dark" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalavghade&theme=github-dark-blue&hide_border=true&background=00000000" />
 </p>
 
